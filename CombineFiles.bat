@@ -1,0 +1,1 @@
+for /R %f in (*.txt) do type "%f" >>H:\Latest1099R.txt
